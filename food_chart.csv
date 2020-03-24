@@ -1,0 +1,51 @@
+Food,Type,Unit,Carbs,Protein,Fats
+Bread,Starches,unit,8,1,1
+Chapati (6 inch across),Starches,unit,15,3,1
+Biscuit,Starches,unit,15,3,1
+Muesli,Starches,cup,60,12,4
+Oatmeal (Cooked),Starches,cup,45,9,3
+Potato (Boiled),Starches,cup,30,6,2
+Rice (White or Brown) Cooked,Starches,cup,45,9,3
+Apple (Unpeeled),Fruits Related,unit,15,0,0
+Baby Banana,Fruits Related,unit,15,0,0
+Kiwi,Fruits Related,unit,15,0,0
+Dates,Fruits Related,unit,5,0,0
+Orange,Fruits Related,unit,15,0,0
+Apple Juice,Fruits Related,cup,30,0,0
+Orange Juice,Fruits Related,cup,30,0,0
+Pineapple Juice,Fruits Related,cup,30,0,0
+Yogurt,Dairy,cup,20,12,5
+Whole Milk,Dairy,cup,15,8,8
+Fat-free Milk,Dairy,cup,15,8,3
+Chocolate Milk,Dairy,cup,30,8,0
+Paneer,Dairy,cup,0,28,12
+Smoothies (Flavoured),Dairy,ounce,5,1,1
+Beet (Cooked),Vegetables,cup,10,4,0
+Broccoli (Cooked),Vegetables,cup,10,4,0
+Spinach (Cooked),Vegetables,cup,10,4,0
+Cauliflower (Cooked),Vegetables,cup,10,4,0
+Cucumber (Raw),Vegetables,cup,10,4,0
+Mushroom (Cooked),Vegetables,cup,10,4,0
+Sprouts (Cooked),Vegetables,cup,10,4,0
+Okra (Cooked),Vegetables,cup,10,4,0
+Egg Whites,Meat,unit,0,4,2
+Fish,Meat,ounce,0,7,3
+Egg Full,Meat,unit,0,7,7
+Fish (Fried),Meat,ounce,0,7,7
+Chicken,Meat,ounce,0,7,3
+Baked beans,Plant-based Protein,cup,45,21,9
+Lentils,Plant-based Protein,cup,30,15,6
+Nut Spreads,Plant-based Protein,tbsp,0,7,8
+Green Peas (Cooked),Plant-based Protein,cup,30,15,6
+Tofu,Plant-based Protein,cup,0,15,8
+Beans (Cooked),Plant-based Protein,cup,30,15,6
+Almonds,Fats,unit,0,0,1
+Peanuts,Fats,unit,0,0,1
+Cashew,Fats,unit,0,0,1
+Mayonnaise,Fats,tsp,0,0,5
+Walnuts,Fats,unit,0,0,2
+Oil (Sunflower or Soyabean),Fats,tsp,0,0,5
+Butter,Fats,tsp,0,0,5
+Cream,Fats,tbsp,0,0,5
+Coconut (Shredded),Fats,tbsp,0,0,2
+Cheese,Fats,ounce,0,7,3
